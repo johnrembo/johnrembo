@@ -27,20 +27,43 @@ Back-end middle+ developer, team leader, scrum master, open-source enthusiast. A
 <img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <br />
+<br />
 
 ## Projects
 
-- Main git repository is available at [private Phabricator](https://notdotnet.ru:8002/diffusion/) (requires registration)
+- Main git repository is available at [self hosted Phabricator](https://notdotnet.ru:8002/diffusion/) (requires registration)
 - [NotDotNet developer community startup](https://notdotnet.ru)
 - [Distributed team software development Labor Exchange web-site](https://laborexchange.ru)
 - Small pet projects partially available at [GitHub](https://github.com/johnrembo/)
 - NDA protected mid scale enterprise products
+
+## GitHub stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=johnrembo&show_icons=true&theme=gruvbox)
+
 
 ## Fields of interest
 
 1. Neural network linguistics applications
 2. Self learning AI models
 3. General automation algorithms 
+
+<details>
+<summary><h3>Boring details</h3></summary>
+
+	To HR people that might be interested in more dark details of persons past that others prefer not to be aware of.
+
+	Beleive it or not you've found just another ordinary Computer Science University graduate of 2002, that started his official career still being a student at 2000 february as a web-master (yes there those guys then). Which failed soon me becoming more a system and database administration than a pure developer in a local bank and then in a federal communication bureau department. About from 2011 to 2016 even this kind of near-computer activities were dumped to try out a small building company cooperation. Which again mostly was a failure. Mostly.
+
+	Restarted software development career nontheless now uses both - old school deeper understanding of how the hardware works and social behavior experience in a position of a company manager. It occurs some of skills collected besides of programming these years now are helping to succesfully run small devops teams.
+
+	In nearest perspective I am intended to get engaged in more complex and long term projects that are effectively driven in the Agile way. I've reached that line after which I should share more outside than evolve on my own as a specialist. Having such an experienced and though progressive, sociable person in your team or company will be payed back generously as quality, highly reliable and supportable software products.
+
+	And yeah, I know what you guys wanna hear ;P
+
+	PS. Do not get confused by my spelling - not a native english speaker.
+	
+</details>
 
 ## Follow
 [![Telegram](https://img.shields.io/badge/-Telegram-33A8E3?style=for-the-badge&logo=telegram&logoColor=fafafa)](https://t.me/notdotnet)
