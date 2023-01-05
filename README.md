@@ -50,19 +50,7 @@ Back-end middle+ developer, team leader, scrum master, open-source enthusiast. A
 
 <details>
 <summary><h3>Boring details</h3></summary>
-
-	To HR people that might be interested in more dark details of persons past that others prefer not to be aware of.
-
-	Beleive it or not you've found just another ordinary Computer Science University graduate of 2002, that started his official career still being a student at 2000 february as a web-master (yes there those guys then). Which failed soon me becoming more a system and database administration than a pure developer in a local bank and then in a federal communication bureau department. About from 2011 to 2016 even this kind of near-computer activities were dumped to try out a small building company cooperation. Which again mostly was a failure. Mostly.
-
-	Restarted software development career nontheless now uses both - old school deeper understanding of how the hardware works and social behavior experience in a position of a company manager. It occurs some of skills collected besides of programming these years now are helping to succesfully run small devops teams.
-
-	In nearest perspective I am intended to get engaged in more complex and long term projects that are effectively driven in the Agile way. I've reached that line after which I should share more outside than evolve on my own as a specialist. Having such an experienced and though progressive, sociable person in your team or company will be payed back generously as quality, highly reliable and supportable software products.
-
-	And yeah, I know what you guys wanna hear ;P
-
-	PS. Do not get confused by my spelling - not a native english speaker.
-	
+	To HR people that might be interested in more dark details of persons past that others prefer not to be aware of.	<br /><br />Beleive it or not you've found just another ordinary Computer Science University graduate of 2002, that started his official career still being a student at 2000 february as a web-master (yes there those guys then). Which failed soon me becoming more a system and database administration than a pure developer in a local bank and then in a federal communication bureau department. About from 2011 to 2016 even this kind of near-computer activities were dumped to try out a small building company cooperation. Which again mostly was a failure. Mostly. <br /><br />Restarted software development career nontheless now uses both - old school deeper understanding of how the hardware works and social behavior experience in a position of a company manager. It occurs some of skills collected besides of programming these years now are helping to succesfully run small devops teams.<br /><br /> In nearest perspective I am intended to get engaged in more complex and long term projects that are effectively driven in the Agile way. I've reached that line after which I should share more outside than evolve on my own as a specialist. Having such an experienced and though progressive, sociable person in your team or company will be payed back generously as quality, highly reliable and supportable software products.<br /><br />	And yeah, I know what you guys wanna hear ;P <br /><br />PS. Do not get confused by my spelling - not a native english speaker.
 </details>
 
 ## Follow
